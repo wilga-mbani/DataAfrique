@@ -8,7 +8,7 @@ from sklearn.metrics import confusion_matrix, classification_report, RocCurveDis
 
 st.title("💳 Prédiction de Fraude Bancaire")
 
-API_URL = "http://127.0.0.1:8000/predict"  # ton endpoint FastAPI
+API_URL = "https://creditcard-1j8c.onrender.com/predict"  # ton endpoint FastAPI
 
 st.write("Renseignez les variables du modèle (négatives ou positives).")
 
