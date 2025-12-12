@@ -1,0 +1,10 @@
+training/
+__pycache__/
+*.pyc
+.DS_Store
+*.zip
+*.csv
+*.xlsx
+*.pkl
+*.h5
+.env
